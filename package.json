@@ -1,0 +1,13 @@
+{
+  "name": "antigravity-web-cli",
+  "version": "1.0.0",
+  "description": "Web UI for Antigravity AI CLI Agent",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["ai", "agent", "antigravity", "cli", "web-ui"],
+  "author": "Antigravity",
+  "license": "MIT"
+}
